@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #A50044; /* granate del Barça */
+    color: white;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+.logo {
+    width: 120px;
+}
+
+h1, h2 {
+    color: #FDB827; /* amarillo del Barça */
+}
+
+section {
+    padding: 20px;
+}
+
+ul {
+    background: rgba(0,0,0,0.2);
+    padding: 15px;
+    border-radius: 8px;
+}
